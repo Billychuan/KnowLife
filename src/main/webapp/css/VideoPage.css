@@ -1,0 +1,58 @@
+.videobox {
+	border-radius: 3px;
+	margin: 10px;
+	cursor: pointer;
+	margin-top: 20px;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+/* .videobox:hover {
+	background-color: #ffb630;
+	transition: 0.5s;
+} */
+.videoimage {
+	width: 100%;
+	height: 100%;
+}
+
+.videoname {
+	height: 60px;
+	padding: 10px;
+	width: auto;
+	color: black;
+	font-size: 18px;
+}
+
+.ellipsis {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	white-space: normal;
+}
+
+.stars {
+	padding: 10px;
+}
+
+.price {
+	padding-left: 10px;
+	font-size: 22px;
+	white-space: nowrap;
+	color: #ffa500;
+}
+
+.btn {
+	background-color: #ffb630;
+}
+
+.atag {
+	text-decoration: none !important;
+}
+
+.deccard {
+	padding: 3px;
+	background-color: #ffa500;
+}

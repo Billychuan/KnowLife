@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: ClassIfo.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: 10月 18, 2021 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2021 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>* 教 練 *</pattern>
+<template>您好，若您想要進一步與教練取得聯繫，請您寄信至我們的信箱(E-mail:)我們將盡快與您聯繫。</template>
+</category>
+<category><pattern>* 教 練</pattern>
+<template>您好，若您想要進一步與教練取得聯繫，請您寄信至我們的信箱(E-mail:)我們將盡快與您聯繫。</template>
+</category>
+<category><pattern>教 練 *</pattern>
+<template>您好，若您想要進一步與教練取得聯繫，請您寄信至我們的信箱(E-mail:)我們將盡快與您聯繫。</template>
+</category>
+<category><pattern>教 練</pattern>
+<template>您好，若您想要進一步與教練取得聯繫，請您寄信至我們的信箱(E-mail:)我們將盡快與您聯繫。</template>
+</category>
+<category><pattern>課 程</pattern>
+<template>您好，若您想要進一步了解我們的課程，請至最新資訊了解我們近期的新課程。或是至課程專區找尋您有興趣的課程。</template>
+</category>
+<category><pattern>* 課 程</pattern>
+<template>您好，若您想要進一步了解我們的課程，請至最新資訊了解我們近期的新課程。或是至課程專區找尋您有興趣的課程。</template>
+</category>
+<category><pattern>* 課 程 *</pattern>
+<template>您好，若您想要進一步了解我們的課程，請至最新資訊了解我們近期的新課程。或是至課程專區找尋您有興趣的課程。</template>
+</category>
+<category><pattern>課 程 *</pattern>
+<template>您好，若您想要進一步了解我們的課程，請至最新資訊了解我們近期的新課程。或是至課程專區找尋您有興趣的課程。</template>
+</category>
+<category><pattern>謝 謝</pattern>
+<template>能幫助您我十分的高興</template>
+</category>
+<category><pattern>* 謝 謝</pattern>
+<template>能幫助您我十分的高興</template>
+</category>
+<category><pattern>感 謝</pattern>
+<template>能幫助您我十分的高興</template>
+</category>
+<category><pattern>到 貨</pattern>
+<template>您好，訂購商品付款之後，我們將根據顯示的庫存狀況盡快安排出貨，一般收到訂單之後預計3~5個工作天將會出貨，物流大約三天。感謝您的支持!</template>
+</category>
+<category><pattern>* 到 貨</pattern>
+<template>您好，訂購商品付款之後，我們將根據顯示的庫存狀況盡快安排出貨，一般收到訂單之後預計3~5個工作天將會出貨，物流大約三天。感謝您的支持!</template>
+</category>
+<category><pattern>* 到 貨 *</pattern>
+<template>您好，訂購商品付款之後，我們將根據顯示的庫存狀況盡快安排出貨，一般收到訂單之後預計3~5個工作天將會出貨，物流大約三天。感謝您的支持!</template>
+</category>
+<category><pattern>到 貨 *</pattern>
+<template>您好，訂購商品付款之後，我們將根據顯示的庫存狀況盡快安排出貨，一般收到訂單之後預計3~5個工作天將會出貨，物流大約三天。感謝您的支持!</template>
+</category>
+<category><pattern>* 商 品 品 質 *</pattern>
+<template>您好，若您在收到商品發現品質有異常，像是結塊、變色、受潮等情況，請您拍照且盡早與我們客服中心反應，我們將立即處理，深感歉意。</template>
+</category>
+<category><pattern>* 商 品 品 質</pattern>
+<template>您好，若您在收到商品發現品質有異常，像是結塊、變色、受潮等情況，請您拍且照盡早與我們客服中心反應，我們將立即處理，深感歉意。</template>
+</category>
+<category><pattern>*  品 質</pattern>
+<template>您好，若您在收到商品發現品質有異常，像是結塊、變色、受潮等情況，請您拍照且盡早與我們客服中心反應，我們將立即處理，深感歉意。</template>
+</category>
+<category><pattern>商 品 品 質 *</pattern>
+<template>您好，若您在收到商品發現品質有異常，像是結塊、變色、受潮等情況，請您拍照且盡早與我們客服中心反應，我們將立即處理，深感歉意。</template>
+</category>
+<category><pattern>聯 絡 時 間</pattern>
+<template>您好，我們的營業時間是平常日早上10點-晚上六點，歡迎您致電。0800-333-133</template>
+</category>
+<category><pattern>* 營 業 時 間 *</pattern>
+<template>您好，我們的營業時間是平常日早上10點-晚上六點，歡迎您致電。0800-333-133</template>
+</category>
+<category><pattern>* 服 務 時 間 *</pattern>
+<template>您好，我們的營業時間是平常日早上10點-晚上六點，歡迎您致電。0800-333-133</template>
+</category>
+<category><pattern>* 超 取 *</pattern>
+<template>您好，若您選擇信用卡付款,為超商取貨不付款的流程,為確保您的權益,超商取貨時需要取件人帶有相片的證件，證件上的姓名須與貨件上的取件人 <即訂購人> 相同。
+請您務必攜帶訂購人證件至超商取貨,以免造成無法取貨的狀況。</template>
+</category>
+<category><pattern>超 取</pattern>
+<template>您好，若您選擇信用卡付款,為超商取貨不付款的流程,為確保您的權益,超商取貨時需要取件人帶有相片的證件，證件上的姓名須與貨件上的取件人 <即訂購人> 相同。
+請您務必攜帶訂購人證件至超商取貨,以免造成無法取貨的狀況。</template>
+</category>
+<category><pattern>已 取 貨 的 商 品 要 如 何 退 換 貨</pattern>
+<template>請您致電客服專線0800-333-133（週一至周五 09:00-17:00）提出退貨申請，我們將由專人告知您詳細的退貨方式，勿直接將商品退回給超商門市。</template>
+</category>
+</aiml>

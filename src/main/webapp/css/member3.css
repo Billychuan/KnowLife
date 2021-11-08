@@ -1,0 +1,109 @@
+﻿* {
+	font-family: 微軟正黑體;
+	position: relative;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: rgb(243, 243, 241);
+}
+
+.h1, .h2 {
+	font-weight: bold !important;
+}
+
+.h1 {
+	text-align: center !important;
+	font-size: 28px !important;
+}
+
+.leftPage {
+	height: 800px;
+	top: 100px;
+	margin-bottom: 150px;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+	border-radius: 10px;
+	background-image: linear-gradient(to top,#fac85c 0%,  #fddb92 100%  );
+	
+	/* background: linear-gradient(#81FBB8, #28C76F); */
+}
+
+.rightPage {
+	height: auto;
+	margin-bottom: 150px;
+	top: 100px;
+	margin-left: 50px;
+	font-size: 18px;
+	background-color: #fff;
+}
+
+.box1 {
+	padding: 30px 0;
+	text-align: center;
+}
+
+.box1:hover {
+	background-color: #fcbd35;
+	transition: 0.5s;
+}
+
+.userPicture {
+	border-radius: 100%;
+	width: 100px;
+	height: 100px;
+}
+
+.userchangeimg{
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	position: absolute;
+	top: 110px;
+	right: 60px;
+	opacity: 0.5;
+}
+.userchangeimg:hover{
+	opacity: 1;
+}
+
+.atag {
+	text-decoration: none !important;
+	color: black !important;
+	font-size: 16px !important;
+	font-weight: bold !important;
+}
+
+.signOut {
+	top: 180px;
+	text-align: center;
+}
+
+.modal-header h3 {
+	font-size: 26px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.modal-content {
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, 50%);
+}
+
+.modal-body form .password, .modal-body form .password2 {
+	margin: 10px;
+	width: 90%;
+	border-radius: 5px;
+}
+
+.modal-body form .btn {
+	margin: 15px;
+	font-size: 16px;
+}
+
